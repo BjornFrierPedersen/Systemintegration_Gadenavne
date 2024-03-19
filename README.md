@@ -8,6 +8,6 @@
 
 Kan kaldes med de noedvendige parametre som er indstillet som 'required'. Se et eksempel paa brug forneden.
 
-![alt text](iFilterBykommuneAndVejkode.png?raw=true "FilterByKommuneAndVejKode")
+![alt text](FilterBykommuneAndVejkode.png?raw=true "FilterByKommuneAndVejKode")
 
 ![alt text](FilterByVejnavn.png?raw=true "FilterByVejnavn")
