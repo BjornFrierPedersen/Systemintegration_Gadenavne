@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Systemintegration_Gadenavne.props" />
+</Project>
